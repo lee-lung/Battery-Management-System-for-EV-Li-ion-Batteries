@@ -1,6 +1,6 @@
 # Adaptive Extended Kalman Filter for Battery State-of-Charge Estimation
 
-Real-time state-of-charge (SOC) estimation for lithium-ion battery packs using an adaptive extended Kalman filter (AEKF) implemented in C. Developed as undergraduate research at the University of Toronto's Smart Power Integration and Semiconductor Devices Research Group (DSEL) under Prof. Wai Tung Ng.
+Real-time state-of-charge (SOC) estimation for lithium-ion battery packs using an adaptive extended Kalman filter (AEKF) implemented in C. Developed as undergraduate research at the University of Toronto's Smart Power Integration and Semiconductor Devices Research Group under Prof. Wai Tung Ng.
 
 ![Research Poster](poster.png)
 
@@ -120,6 +120,6 @@ aekf-bms/
 - ChiJyun Ko
 - Prof. Wai Tung Ng (Supervisor)
 
-**Lab:** Smart Power Integration and Semiconductor Devices Research Group (DSEL), Department of Electrical and Computer Engineering, University of Toronto
+**Lab:** Smart Power Integration and Semiconductor Devices Research Group, Department of Electrical and Computer Engineering, University of Toronto
 
 Summer 2025
